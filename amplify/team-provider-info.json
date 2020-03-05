@@ -1,0 +1,15 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ossilva-portfolio-master-184021-authRole",
+            "UnauthRoleArn": "arn:aws:iam::041346249207:role/amplify-ossilva-portfolio-master-184021-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::041346249207:role/amplify-ossilva-portfolio-master-184021-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "amplify-ossilva-portfolio-master-184021-deployment",
+            "UnauthRoleName": "amplify-ossilva-portfolio-master-184021-unauthRole",
+            "StackName": "amplify-ossilva-portfolio-master-184021",
+            "StackId": "arn:aws:cloudformation:eu-central-1:041346249207:stack/amplify-ossilva-portfolio-master-184021/02c19060-5f00-11ea-894d-062c87541f2a",
+            "AmplifyAppId": "d13mdt7ux2e4r6"
+        }
+    }
+}
